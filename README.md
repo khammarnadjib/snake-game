@@ -1,4 +1,4 @@
-# snake-game
+# Snake-Game MAHJOUB-KHAMMAR
 
 But du jeu : manger les pommes qui sont représentées par des carrés rouges
 
